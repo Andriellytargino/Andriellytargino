@@ -2,7 +2,7 @@
 
  Ola meu nomee é @Andriellytargino
  Meu email de contato é estudante andrielly.antunes@escola.pr.gov.br
-- 👀 Eu estou interessadp em aprender a programar novas linguagens.
+- 👀 Eu estou interessado em aprender a programar novas linguagens.
 - 🌱 Eu estou aprendendo a programar recentimente a linguagem de javaScript e Scratch
 - 💞️ I’m looking to collaborate on ...
 - 📫 How to reach me ...
